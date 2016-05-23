@@ -1,0 +1,69 @@
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 7   Server: 1
+     \\     //        //   / /    / /        Port: 9700
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+14:06:06 Server is starting...
+14:06:08 Server failed to start error:could not connect to redis Instance at 127.0.0.1:6379
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 7   Server: 1
+     \\     //        //   / /    / /        Port: 9700
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+14:07:18 Server is starting...
+14:07:18 Server failed to start error:Redis server is using "10.0.1.21" game server, it's path:C:\Angel\engines\Scut-samples\Doudizhu\Server\release\
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 7   Server: 1
+     \\     //        //   / /    / /        Port: 9700
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+14:09:08 Server is starting...
+14:09:08 Server failed to start error:Redis server is using "10.0.1.21" game server, it's path:C:\Angel\engines\Scut-samples\Doudizhu\Server\release\
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.8
+   ((        //        //   / /    / /       Game: 7   Server: 1
+     \\     //        //   / /    / /        Port: 9700
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+14:10:25 Server is starting...
+14:10:27 script compiled successfully.
+14:10:27 Start checking table schema, please wait.
+14:10:28 Check table schema successfully.
+14:10:28 CacheFactory listen has started...
+# Server command "Ctrl+C" or "Ctrl+Break" exit.
+Time:2016/5/18 14:10:28-正在加载玩家数据...
+
+
+Time:2016/5/18 14:10:28-正在加载玩家结束
+
+
+Time:2016/5/18 14:10:29-The ranking refresh is start...
+
+
+Time:2016/5/18 14:10:29-Trace>>The BeansRanking has be loaded, count:0
+
+
+Time:2016/5/18 14:10:29-Trace>>The WinRanking has be loaded, count:0
+
+
+Time:2016/5/18 14:10:29-The ranking refresh is end.
+
+
+14:10:29 Server has started successfully!
+# Server is listening...
+14:20:40 Clear expired cache end.

@@ -1,0 +1,53 @@
+Time:2016/5/18 14:06:08-Trace>>OnInit error:ServiceStack.Redis.RedisException: could not connect to redis Instance at 127.0.0.1:6379 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:6379
+   在 System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   在 System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   在 ServiceStack.Redis.RedisNativeClient.Connect()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 ServiceStack.Redis.RedisNativeClient.Connect()
+   在 ServiceStack.Redis.RedisNativeClient.AssertConnectedSocket()
+   在 ServiceStack.Redis.RedisNativeClient.SendCommand(Byte[][] cmdWithBinaryArgs)
+   在 ServiceStack.Redis.RedisNativeClient.SendExpectCode(Byte[][] cmdWithBinaryArgs)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(RedisClient client, String[] watchKeys, Func`1 processFunc, Action`1 transFunc, Action`2 errorFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<>c__DisplayClass10.<ProcessTrans>b__e(RedisClient client)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Process(Action`1 func)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(String[] watchKeys, Func`2 processFunc, Action`1 transFunc, Action`2 errorFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.InitRedisInfo()
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Initialize(ICacheSerializer serializer)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2016/5/18 14:07:18-Trace>>OnInit error:System.Exception: Redis server is using "10.0.1.21" game server, it's path:C:\Angel\engines\Scut-samples\Doudizhu\Server\release\
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<InitRedisInfo>b__0(RedisClient cli)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(RedisClient client, String[] watchKeys, Func`1 processFunc, Action`1 transFunc, Action`2 errorFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<>c__DisplayClass10.<ProcessTrans>b__e(RedisClient client)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Process(Action`1 func)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(String[] watchKeys, Func`2 processFunc, Action`1 transFunc, Action`2 errorFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.InitRedisInfo()
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Initialize(ICacheSerializer serializer)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2016/5/18 14:08:01-Trace>>ReLoadRedis error:System.Exception: Redis server is using "192.168.1.5" game server, it's path:C:\Angel\engines\ScutServer_MQ\Scut.Demo\
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<InitRedisInfo>b__0(RedisClient cli)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(RedisClient client, String[] watchKeys, Func`1 processFunc, Action`1 transFunc, Action`2 errorFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<>c__DisplayClass10.<ProcessTrans>b__e(RedisClient client)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Process(Action`1 func)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(String[] watchKeys, Func`2 processFunc, Action`1 transFunc, Action`2 errorFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.InitRedisInfo()
+   在 Scut.SMS.ServerManager.ReLoadRedis()
+
+
+Time:2016/5/18 14:09:08-Trace>>OnInit error:System.Exception: Redis server is using "10.0.1.21" game server, it's path:C:\Angel\engines\Scut-samples\Doudizhu\Server\release\
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<InitRedisInfo>b__0(RedisClient cli)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(RedisClient client, String[] watchKeys, Func`1 processFunc, Action`1 transFunc, Action`2 errorFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<>c__DisplayClass10.<ProcessTrans>b__e(RedisClient client)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Process(Action`1 func)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(String[] watchKeys, Func`2 processFunc, Action`1 transFunc, Action`2 errorFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.InitRedisInfo()
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Initialize(ICacheSerializer serializer)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+

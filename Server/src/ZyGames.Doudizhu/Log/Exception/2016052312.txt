@@ -1,0 +1,37 @@
+Time:2016/5/23 12:25:32-Trace>>OnInit error:ServiceStack.Redis.RedisException: could not connect to redis Instance at 127.0.0.1:6379 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:6379
+   在 System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   在 System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   在 ServiceStack.Redis.RedisNativeClient.Connect()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 ServiceStack.Redis.RedisNativeClient.Connect()
+   在 ServiceStack.Redis.RedisNativeClient.AssertConnectedSocket()
+   在 ServiceStack.Redis.RedisNativeClient.SendCommand(Byte[][] cmdWithBinaryArgs)
+   在 ServiceStack.Redis.RedisNativeClient.SendExpectCode(Byte[][] cmdWithBinaryArgs)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(RedisClient client, String[] watchKeys, Func`1 processFunc, Action`1 transFunc, Action`2 errorFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<>c__DisplayClass10.<ProcessTrans>b__e(RedisClient client)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Process(Action`1 func)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(String[] watchKeys, Func`2 processFunc, Action`1 transFunc, Action`2 errorFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.InitRedisInfo()
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Initialize(ICacheSerializer serializer)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2016/5/23 12:27:07-Trace>>OnInit error:System.Exception: Redis server is using "10.0.1.20" game server, it's path:C:\Angel\engines\Scut-samples\Doudizhu\Server\src\ZyGames.Doudizhu\
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<InitRedisInfo>b__0(RedisClient cli)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(RedisClient client, String[] watchKeys, Func`1 processFunc, Action`1 transFunc, Action`2 errorFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<>c__DisplayClass10.<ProcessTrans>b__e(RedisClient client)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Process(Action`1 func)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(String[] watchKeys, Func`2 processFunc, Action`1 transFunc, Action`2 errorFunc)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.InitRedisInfo()
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Initialize(ICacheSerializer serializer)
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting)
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart()
+
+
+Time:2016/5/23 12:28:02-Trace>>Action request GameServer.CsScript.Action.Action1008,GameServer.CsScript error:System.NotSupportedException: Not found script action1008, please check script path setting.
+   在 ZyGames.Framework.Game.Contract.ActionFactory.FindRoute(String typeExpression, ActionGetter actionGetter, Int32 actionId)
+   在 ZyGames.Framework.Game.Contract.ActionFactory.Request(String typeName, ActionGetter actionGetter, BaseGameResponse response)
+param:ddz.scutgame.com:9700?d=MsgId%3d7%26Sid%3ds_567506753a6c45858632d72a6b2984d1%7c7%7c1%26Uid%3d1380000%26St%3dst%26ActionId%3d1008%26sign%3d704cdb4548ccef8cebb74f8e08fdaf0d
+
+

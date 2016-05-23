@@ -1,0 +1,15 @@
+Time:2016/5/23 12:27:42-Redis write queue start init...
+
+
+Time:2016/5/23 12:27:42-Sql wait write queue start init...
+
+
+Time:2016/5/23 12:27:42-Sql write queue start init...
+
+
+Time:2016/5/23 12:27:42-Trace>>The readonly-data:ZyGames.Doudizhu.Model.ConfigEnvSet has been loaded 14
+
+
+Time:2016/5/23 12:28:02-Trace>>The readonly-data:ZyGames.Framework.Game.Message.SensitiveWord has been loaded 0
+
+
