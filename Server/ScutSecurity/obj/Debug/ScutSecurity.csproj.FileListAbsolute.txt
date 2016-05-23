@@ -1,0 +1,5 @@
+C:\Angel\engines\Scut\Source\Middleware\ScutSecurity\bin\ScutSecurity.dll
+C:\Angel\engines\Scut\Source\Middleware\ScutSecurity\bin\ScutSecurity.pdb
+C:\Angel\engines\Scut\Source\Middleware\ScutSecurity\obj\Debug\ScutSecurity.csprojResolveAssemblyReference.cache
+C:\Angel\engines\Scut\Source\Middleware\ScutSecurity\obj\Debug\ScutSecurity.dll
+C:\Angel\engines\Scut\Source\Middleware\ScutSecurity\obj\Debug\ScutSecurity.pdb

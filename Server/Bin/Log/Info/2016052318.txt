@@ -1,0 +1,196 @@
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT 6.7.9.11 (64 bit)
+   ((        //        //   / /    / /       Running in Win32NT platform
+     \\     //        //   / /    / /        Game: 7   Server: 1
+       ) ) //        //   / /    / /         
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+18:21:36 Server is starting...
+18:21:36 Redis server connect successfully.
+18:21:36 DB server connect successfully.
+18:21:37 Start checking table schema, please wait.
+18:21:37 Check table schema successfully.
+18:21:37 script compiled successfully.
+18:21:37 CacheFactory listen has started...
+18:21:37 Socket service 10.0.1.48:9700 is started.
+Time:2016-05-23 18:21:37:963-正在加载玩家数据...
+
+
+Time:2016-05-23 18:21:37:994-正在加载玩家结束
+
+
+Time:2016-05-23 18:21:38:035-The ranking refresh is start...
+
+
+Time:2016-05-23 18:21:38:042-Trace>>The BeansRanking has be loaded, count:0
+
+
+Time:2016-05-23 18:21:38:045-Trace>>The WinRanking has be loaded, count:0
+
+
+Time:2016-05-23 18:21:38:048-The ranking refresh is end.
+
+
+18:21:38 Server has started successfully!
+# Server is listening...
+# Server exit command "Ctrl+C" or "Ctrl+Break".
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT 6.7.9.11 (64 bit)
+   ((        //        //   / /    / /       Running in Win32NT platform
+     \\     //        //   / /    / /        Game: 7   Server: 1
+       ) ) //        //   / /    / /         
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+18:25:53 Server is starting...
+18:25:54 Redis server connect successfully.
+18:25:54 DB server connect successfully.
+18:25:55 Start checking table schema, please wait.
+18:25:55 Check table schema successfully.
+18:25:55 script compiled successfully.
+18:25:55 CacheFactory listen has started...
+18:25:55 Socket service 10.0.1.48:9700 is started.
+Time:2016-05-23 18:25:55:772-正在加载玩家数据...
+
+
+Time:2016-05-23 18:25:55:803-正在加载玩家结束
+
+
+Time:2016-05-23 18:25:55:865-The ranking refresh is start...
+
+
+Time:2016-05-23 18:25:55:865-Trace>>The BeansRanking has be loaded, count:0
+
+
+Time:2016-05-23 18:25:55:865-Trace>>The WinRanking has be loaded, count:0
+
+
+Time:2016-05-23 18:25:55:865-The ranking refresh is end.
+
+
+18:25:55 Server has started successfully!
+# Server is listening...
+# Server exit command "Ctrl+C" or "Ctrl+Break".
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT 6.7.9.11 (64 bit)
+   ((        //        //   / /    / /       Running in Win32NT platform
+     \\     //        //   / /    / /        Game: 7   Server: 1
+       ) ) //        //   / /    / /         
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+18:30:06 Server is starting...
+18:30:06 Redis server connect successfully.
+18:30:07 DB server connect successfully.
+18:30:08 Start checking table schema, please wait.
+18:30:08 Check table schema successfully.
+18:30:08 script compiled successfully.
+18:30:08 CacheFactory listen has started...
+18:30:08 Socket service 10.0.1.48:9700 is started.
+Time:2016-05-23 18:30:08:579-正在加载玩家数据...
+
+
+Time:2016-05-23 18:30:08:595-正在加载玩家结束
+
+
+Time:2016-05-23 18:30:08:704-The ranking refresh is start...
+
+
+Time:2016-05-23 18:30:08:711-Trace>>The BeansRanking has be loaded, count:0
+
+
+Time:2016-05-23 18:30:08:714-Trace>>The WinRanking has be loaded, count:0
+
+
+Time:2016-05-23 18:30:08:717-The ranking refresh is end.
+
+
+18:30:08 Server has started successfully!
+# Server is listening...
+# Server exit command "Ctrl+C" or "Ctrl+Break".
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT 6.7.9.11 (64 bit)
+   ((        //        //   / /    / /       Running in Win32NT platform
+     \\     //        //   / /    / /        Game: 7   Server: 1
+       ) ) //        //   / /    / /         
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+18:32:10 Server is starting...
+18:32:10 Redis server connect successfully.
+18:32:10 DB server connect successfully.
+18:32:11 Start checking table schema, please wait.
+18:32:11 Check table schema successfully.
+18:32:11 script compiled successfully.
+18:32:11 CacheFactory listen has started...
+18:32:11 Socket service 10.0.1.48:9700 is started.
+Time:2016-05-23 18:32:11:888-正在加载玩家数据...
+
+
+Time:2016-05-23 18:32:11:903-正在加载玩家结束
+
+
+Time:2016-05-23 18:32:11:966-The ranking refresh is start...
+
+
+Time:2016-05-23 18:32:11:981-Trace>>The BeansRanking has be loaded, count:0
+
+
+Time:2016-05-23 18:32:11:981-Trace>>The WinRanking has be loaded, count:0
+
+
+Time:2016-05-23 18:32:11:981-The ranking refresh is end.
+
+
+18:32:11 Server has started successfully!
+# Server is listening...
+# Server exit command "Ctrl+C" or "Ctrl+Break".
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT 6.7.9.11 (64 bit)
+   ((        //        //   / /    / /       Running in Win32NT platform
+     \\     //        //   / /    / /        Game: 7   Server: 1
+       ) ) //        //   / /    / /         
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+18:57:00 Server is starting...
+18:57:01 Server failed to start error:The game server is using Redis at host name "10.0.1.48" path C:\Users\zli\Documents\ddz_network\Server\src\ZyGames.Doudizhu\.
+# Server exit command "Ctrl+C" or "Ctrl+Break".
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT 6.7.9.11 (64 bit)
+   ((        //        //   / /    / /       Running in Win32NT platform
+     \\     //        //   / /    / /        Game: 7   Server: 1
+       ) ) //        //   / /    / /         
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+18:57:20 Server is starting...
+18:57:21 Redis server connect successfully.
+18:57:21 DB server connect successfully.
+18:57:22 Start checking table schema, please wait.
+18:57:22 Check table schema successfully.
+18:57:22 script compiled successfully.
+18:57:22 CacheFactory listen has started...
+18:57:22 Socket service 10.0.1.48:9700 is started.
+Time:2016-05-23 18:57:22:857-正在加载玩家数据...
+
+
+Time:2016-05-23 18:57:22:872-正在加载玩家结束
+
+
+Time:2016-05-23 18:57:22:935-The ranking refresh is start...
+
+
+Time:2016-05-23 18:57:22:951-Trace>>The BeansRanking has be loaded, count:0
+
+
+Time:2016-05-23 18:57:22:951-Trace>>The WinRanking has be loaded, count:0
+
+
+Time:2016-05-23 18:57:22:951-The ranking refresh is end.
+
+
+18:57:22 Server has started successfully!
+# Server is listening...
+# Server exit command "Ctrl+C" or "Ctrl+Break".

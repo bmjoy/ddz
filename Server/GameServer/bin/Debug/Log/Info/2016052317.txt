@@ -1,0 +1,11 @@
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT 6.7.9.11 (64 bit)
+   ((        //        //   / /    / /       Running in Win32NT platform
+     \\     //        //   / /    / /        Game: 0   Server: 0
+       ) ) //        //   / /    / /         
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+17:36:31 Server is starting...
+17:36:31 Server failed to start error:The game server is using Redis at host name "DESKTOP-VM3A153" path C:\Angel\git\Scut-samples\Doudizhu\Server\Source\Middleware\GameServer\bin\Debug\.
+# Server exit command "Ctrl+C" or "Ctrl+Break".

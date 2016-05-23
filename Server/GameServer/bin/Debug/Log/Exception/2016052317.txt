@@ -1,0 +1,15 @@
+Time:2016-05-23 17:36:31:670-Trace>>OnInit error:System.Exception: The game server is using Redis at host name "DESKTOP-VM3A153" path C:\Angel\git\Scut-samples\Doudizhu\Server\Source\Middleware\GameServer\bin\Debug\.
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<>c__DisplayClass12_0.<InitRedisInfo>b__0(RedisClient cli) 位置 C:\Angel\git\Scut-samples\Doudizhu\Server\Source\ZyGames.Framework\Redis\RedisConnectionPool.cs:行号 200
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<>c__DisplayClass24_1.<ProcessTrans>b__1() 位置 C:\Angel\git\Scut-samples\Doudizhu\Server\Source\ZyGames.Framework\Redis\RedisConnectionPool.cs:行号 340
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(RedisClient client, String[] watchKeys, Func`1 processFunc, Action`1 transFunc, Action`2 errorFunc) 位置 C:\Angel\git\Scut-samples\Doudizhu\Server\Source\ZyGames.Framework\Redis\RedisConnectionPool.cs:行号 357
+   在 ZyGames.Framework.Redis.RedisConnectionPool.<>c__DisplayClass24_0.<ProcessTrans>b__0(RedisClient client) 位置 C:\Angel\git\Scut-samples\Doudizhu\Server\Source\ZyGames.Framework\Redis\RedisConnectionPool.cs:行号 340
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Process(Action`1 func, RedisPoolSetting setting) 位置 C:\Angel\git\Scut-samples\Doudizhu\Server\Source\ZyGames.Framework\Redis\RedisConnectionPool.cs:行号 495
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(String[] watchKeys, Func`2 processFunc, Action`1 transFunc, Action`2 errorFunc) 位置 C:\Angel\git\Scut-samples\Doudizhu\Server\Source\ZyGames.Framework\Redis\RedisConnectionPool.cs:行号 338
+   在 ZyGames.Framework.Redis.RedisConnectionPool.ProcessTrans(String watchKeys, Func`2 processFunc, Action`1 transFunc) 位置 C:\Angel\git\Scut-samples\Doudizhu\Server\Source\ZyGames.Framework\Redis\RedisConnectionPool.cs:行号 325
+   在 ZyGames.Framework.Redis.RedisConnectionPool.InitRedisInfo() 位置 C:\Angel\git\Scut-samples\Doudizhu\Server\Source\ZyGames.Framework\Redis\RedisConnectionPool.cs:行号 140
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Initialize(RedisPoolSetting setting, ICacheSerializer serializer) 位置 C:\Angel\git\Scut-samples\Doudizhu\Server\Source\ZyGames.Framework\Redis\RedisConnectionPool.cs:行号 128
+   在 ZyGames.Framework.Redis.RedisConnectionPool.Initialize(ICacheSerializer serializer) 位置 C:\Angel\git\Scut-samples\Doudizhu\Server\Source\ZyGames.Framework\Redis\RedisConnectionPool.cs:行号 108
+   在 ZyGames.Framework.Game.Runtime.GameEnvironment.Start(EnvironmentSetting setting, CacheSetting cacheSetting) 位置 C:\Angel\git\Scut-samples\Doudizhu\Server\Source\ZyGames.Framework.Game\Runtime\GameEnvironment.cs:行号 184
+   在 ZyGames.Framework.Game.Runtime.RuntimeHost.OnStart() 位置 C:\Angel\git\Scut-samples\Doudizhu\Server\Source\ZyGames.Framework.Game\Runtime\RuntimeHost.cs:行号 96
+
+

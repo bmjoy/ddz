@@ -1,0 +1,96 @@
+Time:2016-05-23 18:21:37:885-Redis write queue start init...
+
+
+Time:2016-05-23 18:21:37:885-Sql wait write queue start init...
+
+
+Time:2016-05-23 18:21:37:901-Sql write queue start init...
+
+
+Time:2016-05-23 18:21:38:358-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2016-05-23 18:25:55:725-Redis write queue start init...
+
+
+Time:2016-05-23 18:25:55:725-Sql wait write queue start init...
+
+
+Time:2016-05-23 18:25:55:725-Sql write queue start init...
+
+
+Time:2016-05-23 18:25:56:112-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2016-05-23 18:30:08:533-Redis write queue start init...
+
+
+Time:2016-05-23 18:30:08:533-Sql wait write queue start init...
+
+
+Time:2016-05-23 18:30:08:533-Sql write queue start init...
+
+
+Time:2016-05-23 18:30:08:952-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2016-05-23 18:31:08:959-Trace>>Socket connect status: TotalCount=1, CurrentCount=0, CloseCount=1, RejectedCount=0
+
+
+Time:2016-05-23 18:31:42:768-Trace>>Process action-1002 Uid:0 access timeout 21868.3931/500ms.
+Url:Url:ddz.scutgame.com:9700?d=MsgId%3d3%26Sid%3d%26Uid%3d0%26St%3d%26ActionId%3d1002%26MobileType%3d0%26GameType%3d7%26RetailID%3d0000%26ClientAppVersion%3d1.0%26ScreenX%3d960%26ScreenY%3d640%26DeviceID%3dAC-BC-32-AC-C4-1D%26ServerID%3d1%26sign%3dc017233cadb79e3ea409e9153f8f72cd, Uid:0, Pid:
+Host:127.0.0.1:40755
+
+
+Time:2016-05-23 18:32:11:841-Redis write queue start init...
+
+
+Time:2016-05-23 18:32:11:841-Sql wait write queue start init...
+
+
+Time:2016-05-23 18:32:11:841-Sql write queue start init...
+
+
+Time:2016-05-23 18:32:12:255-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+
+Time:2016-05-23 18:32:55:470-Trace>>Process action-1002 Uid:0 access timeout 14292.6452/500ms.
+Url:Url:ddz.scutgame.com:9700?d=MsgId%3d3%26Sid%3d%26Uid%3d0%26St%3d%26ActionId%3d1002%26MobileType%3d0%26GameType%3d7%26RetailID%3d0000%26ClientAppVersion%3d1.0%26ScreenX%3d960%26ScreenY%3d640%26DeviceID%3dAC-BC-32-AC-C4-1D%26ServerID%3d1%26sign%3dc017233cadb79e3ea409e9153f8f72cd, Uid:0, Pid:
+Host:127.0.0.1:40958
+
+
+Time:2016-05-23 18:33:12:261-Trace>>Socket connect status: TotalCount=2, CurrentCount=0, CloseCount=2, RejectedCount=0
+
+
+Time:2016-05-23 18:34:12:266-Trace>>Socket connect status: TotalCount=2, CurrentCount=0, CloseCount=2, RejectedCount=0
+
+
+Time:2016-05-23 18:35:12:271-Trace>>Socket connect status: TotalCount=2, CurrentCount=0, CloseCount=2, RejectedCount=0
+
+
+Time:2016-05-23 18:36:12:288-Trace>>Socket connect status: TotalCount=2, CurrentCount=0, CloseCount=2, RejectedCount=0
+
+
+Time:2016-05-23 18:37:12:297-Trace>>Socket connect status: TotalCount=2, CurrentCount=0, CloseCount=2, RejectedCount=0
+
+
+Time:2016-05-23 18:37:57:321-Trace>>Process action-1002 Uid:0 access timeout 5339.4901/500ms.
+Url:Url:ddz.scutgame.com:9700?d=MsgId%3d3%26Sid%3d%26Uid%3d0%26St%3d%26ActionId%3d1002%26MobileType%3d0%26GameType%3d7%26RetailID%3d0000%26ClientAppVersion%3d1.0%26ScreenX%3d960%26ScreenY%3d640%26DeviceID%3dAC-BC-32-AC-C4-1D%26ServerID%3d1%26sign%3dc017233cadb79e3ea409e9153f8f72cd, Uid:0, Pid:
+Host:127.0.0.1:41368
+
+
+Time:2016-05-23 18:38:12:297-Trace>>Socket connect status: TotalCount=3, CurrentCount=0, CloseCount=3, RejectedCount=0
+
+
+Time:2016-05-23 18:57:22:810-Redis write queue start init...
+
+
+Time:2016-05-23 18:57:22:810-Sql wait write queue start init...
+
+
+Time:2016-05-23 18:57:22:810-Sql write queue start init...
+
+
+Time:2016-05-23 18:57:23:232-Trace>>Socket connect status: TotalCount=0, CurrentCount=0, CloseCount=0, RejectedCount=0
+
+

@@ -1,0 +1,10 @@
+C:\Angel\engines\Scut\Source\Framework\ZyGames.Framework.Common\bin\ZyGames.Framework.Common.xml
+C:\Angel\engines\Scut\Source\Framework\ZyGames.Framework.Common\bin\ZyGames.Framework.Common.dll
+C:\Angel\engines\Scut\Source\Framework\ZyGames.Framework.Common\bin\ZyGames.Framework.Common.pdb
+C:\Angel\engines\Scut\Source\Framework\ZyGames.Framework.Common\bin\Mono.Cecil.dll
+C:\Angel\engines\Scut\Source\Framework\ZyGames.Framework.Common\bin\Mono.Cecil.Pdb.dll
+C:\Angel\engines\Scut\Source\Framework\ZyGames.Framework.Common\bin\Newtonsoft.Json.dll
+C:\Angel\engines\Scut\Source\Framework\ZyGames.Framework.Common\bin\NLog.dll
+C:\Angel\engines\Scut\Source\Framework\ZyGames.Framework.Common\bin\protobuf-net.dll
+C:\Angel\engines\Scut\Source\Framework\ZyGames.Framework.Common\obj\Debug\ZyGames.Framework.Common.dll
+C:\Angel\engines\Scut\Source\Framework\ZyGames.Framework.Common\obj\Debug\ZyGames.Framework.Common.pdb
